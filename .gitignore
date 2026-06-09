@@ -1,0 +1,15 @@
+# Secrets
+keys/
+token.txt
+
+# Virtual environment
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+config.bat
+node_modules
